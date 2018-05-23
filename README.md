@@ -13,7 +13,7 @@ I completed all three requiruments
 2. In [your-url]/show we can see json file from jobs.json file
 *to complete this subtask i created open function in FileHelper.php file class*
 
-3. with Command line interface command "php bin/console check-json" we can check
+3. with Command line interface command "php bin/console check-json" we can check jobs.json 
 *To complete this subtask i created Command/CheckJson.php file with command I used previous mentioned WebCrawlerHelper.php with FileHelper.php files classes*
 
 * for one of bonus subtasks i created WebCrawlerTest.php test class with three test cases for everyone of WebCrawler.php controller method 
