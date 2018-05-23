@@ -7,7 +7,7 @@ Instalation is not different from any other Symfony4 application just upload fil
 ## Summary 
 I completed all three requiruments
 
-1.Prased (aka crawled) data is stored in jobs.json file in public directory it all checked with schema.json file with JsonSchema\Validator help. 
+1. Prased (aka crawled) data is stored in jobs.json file in public directory it all checked with schema.json file with JsonSchema\Validator help. 
 *To complete this sub-task I created few services that i called helpers WebCrawlerHelper.php to crawl the web, SchemaJsonHelper.php to validate with schema.json and FileHelper.php to save file*
 
 2. In [your-url]/show we can see json file from jobs.json file
