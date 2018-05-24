@@ -3,6 +3,10 @@ To complete task was used PHP Symfony4 framework, with phpStorm and XAMPP
 
 ## Instalation
 Instalation is not different from any other Symfony4 application just upload files to your server and you are ready to go
+### Edit
+You also need to run composer command to import all dependencies 
+`composer update`
+And now you are truly ready to go! ;D 
 
 ## Summary 
 I completed all three requiruments 
